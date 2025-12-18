@@ -32,6 +32,9 @@ def scrape_quotes():
 		new_link = next_page.find("a")["href"] if next_page else None
 	return all_quotes
 
+import os
+print("hi" + os.getcwd())
+
 def write_quotes(quotes):
 	with open("quotes.csv", "w", encoding="utf-8", newline="") as file:
 		headers = ["text", "author", "bio"]

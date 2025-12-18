@@ -1,3 +1,10 @@
+"""
+Project Name: Type Enforcement Decorator
+Purpose: Demonstrates a custom Python decorator that coerces function arguments into specified types
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 06/28/2025
+"""
 def enforce(*types):
     def decorator(f):
         def new_func(*args, **kwargs):

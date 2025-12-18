@@ -3,7 +3,7 @@ Project Name: Scoping Example – UnboundLocalError
 Purpose: Demonstrates a scoping problem in Python when trying to modify a variable without using 'global'
 Author: Jessica Rust
 Course/Source: Personal Project
-Date: 06/15/2025
+Date: 05/19/2025
 """
 # EXAMPLE OF A SCOPING PROBLEM:
 total = 0

@@ -1,3 +1,10 @@
+"""
+Project Name: Scream/ CSV Uppercase Transformer
+Purpose: Demonstrates two approaches to reading and writing CSV files by converting all fields to uppercase
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 07/23/2025
+"""
 from csv import reader, writer
 # using nested with statements
 with open('fighters.csv') as file:

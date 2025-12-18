@@ -3,7 +3,7 @@ Project Name: Exponent Function
 Purpose: Defines a function to raise a number to a specified power, with the default power set to 2
 Author: Jessica Rust
 Course/Source: Personal Project
-Date: 06/15/2025
+Date: 05/19/2025
 """
 def exponent(num, power=2):
 	"""exponent(num, power)raises num to specified power. Power defaults to 2."""

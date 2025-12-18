@@ -1,3 +1,10 @@
+"""
+Project Name: Quotes Scraper to CSV
+Purpose: Scrapes quotes, authors, and biography links from quotes.toscrape.com and saves them to a CSV file
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 07/25/2025
+"""
 import requests
 from bs4 import BeautifulSoup
 from random import choice

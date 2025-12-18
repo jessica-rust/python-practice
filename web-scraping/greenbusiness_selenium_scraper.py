@@ -1,3 +1,10 @@
+"""
+Project Name: Green Business Network Scraper
+Purpose: Scrapes company information from the Green Business Network directory using Selenium, including name, description, location, and website, and saves it to a CSV file
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 07/27/2025
+"""
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options

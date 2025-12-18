@@ -1,3 +1,10 @@
+"""
+Project Name: GreenSource DFW Scraper
+Purpose: Scrapes company data from greensourcedfw.org including name, location, email, website, phone, and business category, and saves it to a CSV file
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 06/29/2025
+"""
 import requests
 from bs4 import BeautifulSoup
 from time import sleep

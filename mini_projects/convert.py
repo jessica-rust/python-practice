@@ -1,3 +1,10 @@
+"""
+Project Name: CSV Height Converter
+Purpose: Converts fighter heights from centimeters to inches and writes a new CSV
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 07/23/2025
+"""
 from csv import DictReader, DictWriter
 
 def cm_to_in(cm):

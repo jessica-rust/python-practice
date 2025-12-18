@@ -1,3 +1,10 @@
+"""
+Project Name: Deck of Cards Simulator
+Purpose: Implements a standard 52-card deck with functionality to shuffle, deal single cards, and deal hands
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 06/29/2025
+"""
 from random import shuffle
 
 class Card:

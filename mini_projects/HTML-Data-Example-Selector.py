@@ -1,3 +1,11 @@
+"""
+Project Name: HTML Data-Example Selector
+Purpose: Demonstrates selecting HTML elements with a specific attribute using BeautifulSoup
+Author: Jessica Rust
+Course/Source: personal project
+Date: <07/23/2025>
+"""
+
 from bs4 import BeautifulSoup
 html = """
 <!DOCTYPE html>

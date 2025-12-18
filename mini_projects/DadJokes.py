@@ -1,3 +1,10 @@
+"""
+Project Name: Dad Joke 3000
+Purpose: Fetches and displays a random dad joke based on user input using the icanhazdadjoke API
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 06/15/2025
+"""
 import requests
 import pyfiglet
 from random import choice

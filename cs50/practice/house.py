@@ -1,3 +1,10 @@
+"""
+Project Name: House Matcher
+Purpose: Prompts the user for a name and prints the corresponding Hogwarts house using Python's match-case statement
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 name = input("What's your name? ")
 
 # most succinct form

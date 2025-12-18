@@ -1,3 +1,10 @@
+"""
+Project Name: Read and Sort Students from CSV
+Purpose: Reads student names and homes from a CSV file and prints them sorted by name
+Author: Jessica Rust
+Course/Source: Exercise
+Date: 12/18/2025
+"""
 import csv
 
 """ using csv reader assuming no headers in csv doc. """

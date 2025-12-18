@@ -1,3 +1,10 @@
+"""
+Project Name: Hello Function Unit Tests
+Purpose: Test the hello() function for both default and argument-based outputs
+Author: Jessica Rust
+Course/Source: Exercise
+Date: 12/18/2025
+"""
 from hello import hello
 
     # if the hello() function had a print statement

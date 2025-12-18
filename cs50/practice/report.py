@@ -1,3 +1,10 @@
+"""
+Project Name: Spacecraft Report Generator
+Purpose: Creates and updates a spacecraft dictionary, then prints a formatted report using dictionary values
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     spacecraft = {"Name":"James Webb Space Telescope"}
     spacecraft["Distance"] = 0.01 # Creates a new Dictionary Entry

@@ -1,3 +1,10 @@
+"""
+Project Name: Generate
+Purpose: Demonstrates the use of Python's random module, including random choice, randint, and list shuffling
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 import random
 # useful when you have variables or functions with the same names
 # as the dictionary your using, so specifying random.randint() means

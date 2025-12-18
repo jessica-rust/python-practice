@@ -1,3 +1,10 @@
+"""
+Project Name: FExtensions
+Purpose: Prompts the user for a file name and prints its corresponding MIME type based on the file extension
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 def main():
     file_name = input("File name: ").lower().strip()
 

@@ -1,3 +1,10 @@
+"""
+Project Name: TV Show Formatter
+Purpose: Cleans and formats a list of TV show titles, then prints them individually and as a single comma-separated string
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 SHOWS = [
     " Avatar: the last airbender",
     "Ben 10",

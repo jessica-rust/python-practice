@@ -1,3 +1,10 @@
+"""
+Project Name: Cowsay Greeter
+Purpose: Greets users with ASCII art using the cowsay library and demonstrates modular code with imported functions
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 # install cowsay using pip before running code
 
 import cowsay

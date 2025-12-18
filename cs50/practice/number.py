@@ -1,3 +1,10 @@
+"""
+Project Name: Integer Input Validator
+Purpose: Prompts the user for an integer and validates input using a function with try/except
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     x = get_int("What's x? ")
     print(f"x is {x}")

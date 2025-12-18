@@ -1,3 +1,10 @@
+"""
+Project Name: Even or Odd Checker
+Purpose: Prompts the user for a number and prints whether it is even or odd using a function
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     x = int(input("What's x? "))
     # is_even is returning a T/F value

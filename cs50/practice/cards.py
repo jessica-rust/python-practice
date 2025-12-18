@@ -1,3 +1,10 @@
+"""
+Project Name: Cards
+Purpose: Demonstrates different ways to select cards randomly using Python's random module, including weighted choices and seeding
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 import random
 
 cards = ["jack", "queen", "king"]

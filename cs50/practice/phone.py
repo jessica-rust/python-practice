@@ -1,3 +1,10 @@
+"""
+Project Name: Phone Number Slicer
+Purpose: Demonstrates string slicing techniques to extract parts of a phone number
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     phone = "617-495-1000"
 

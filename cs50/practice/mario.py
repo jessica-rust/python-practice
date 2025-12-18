@@ -1,3 +1,10 @@
+"""
+Project Name: Shape Printer
+Purpose: Demonstrates printing squares, rows, and columns using functions and loops in Python
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     print_square(3)
     print_column(3)

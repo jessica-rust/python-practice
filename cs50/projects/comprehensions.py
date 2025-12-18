@@ -1,3 +1,10 @@
+"""
+Project Name: Word Frequency Counter
+Purpose: Demonstrates counting word occurrences in a string using list comprehension, filtering by word length, and dictionary comprehension
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
 
     """ Using List Comprehension """

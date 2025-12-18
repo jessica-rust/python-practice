@@ -1,3 +1,10 @@
+"""
+Project Name: Fancy Text Generator
+Purpose: Prompts the user for text and prints it in stylized ASCII art using pyfiglet, with optional font selection via command-line arguments
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 import pyfiglet
 import random
 import sys

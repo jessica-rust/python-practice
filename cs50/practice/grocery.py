@@ -1,3 +1,10 @@
+"""
+Project Name: Grocery
+Purpose: Collects items from user input, counts the quantity of each item, and prints a sorted list of items with their counts
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 lists = {}
 
 def main():

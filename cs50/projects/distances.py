@@ -1,3 +1,10 @@
+"""
+Project Name: Spacecraft Distance Converter
+Purpose: Displays distances of various spacecraft from Earth in astronomical units (AU) and converts them to meters
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 distances = {
     "Voyager 1": 163,
     "voyager 2": 136,

@@ -1,3 +1,10 @@
+"""
+Project Name: Game
+Purpose: Prompts the user to guess a randomly generated number within a specified range, providing feedback until the correct number is guessed
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 import random
 
 

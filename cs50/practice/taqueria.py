@@ -1,3 +1,10 @@
+"""
+Project Name: Taco Shop Order Tracker
+Purpose: Allows users to input menu items and keeps a running total of the order
+Author: Jessica Rust
+Course/Source: Exercise
+Date: 12/18/2025
+"""
 MENU = {
     "Baja Taco": 4.25,
     "Burrito": 7.50,

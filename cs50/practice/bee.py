@@ -1,3 +1,10 @@
+"""
+Project Name: Bee
+Purpose: Runs a simple Spelling Bee game where the player guesses words from a given set of letters and earns points for correct guesses
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 WORDS = {"PAIR" : 4, "HAIR": 4, "CHAIR": 5, "GRAPHIC": 7}
 
 def main():

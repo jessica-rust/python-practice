@@ -1,3 +1,10 @@
+"""
+Project Name: Game Recommender
+Purpose: Recommends a game based on user-selected difficulty and number of players
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     #takes the input for the players
     difficulty = input("Difficult or Casual? ").title()
@@ -14,7 +21,7 @@ def main():
     elif difficulty == "Casual":
         if players == "Multiplayer":
             recommend("Hearts")
-        elif player == "Single-Player":
+        elif players == "Single-Player":
             recommend("Clock")
         else:
             print("Enter a valid number of players")

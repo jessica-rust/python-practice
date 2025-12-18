@@ -1,3 +1,10 @@
+"""
+Project Name: iTunes Song Finder
+Purpose: Retrieves songs from the iTunes API for a given artist and prints the track names, using command-line arguments to specify artist and number of songs
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 import json
 import requests
 import sys

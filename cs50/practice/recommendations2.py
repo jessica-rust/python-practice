@@ -1,3 +1,10 @@
+"""
+Project Name: Game Recommender (Validated Version)
+Purpose: Recommends a game based on user-selected difficulty and number of players, with input validation using early returns
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     # takes the input for the difficulty and number of players
     difficulty = input("Difficult or Casual? ").title()

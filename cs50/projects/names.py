@@ -1,3 +1,10 @@
+"""
+Project Name: Name File Manager
+Purpose: Adds names to a file and reads them back in sorted order, demonstrating file input/output in Python
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 """ This code creates a name file that can be added to and then reads it back to you """
 
 """ original code """

@@ -1,3 +1,10 @@
+"""
+Project Name: Astronomical Unit to Meters Converter
+Purpose: Prompts the user for a distance in astronomical units (AU) and converts it to meters
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     while True:
         au = input("AU: ")

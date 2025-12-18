@@ -1,3 +1,10 @@
+"""
+Project Name: Name Tag CLI
+Purpose: Prints a greeting for each name provided as a command-line argument, with basic error handling
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 import sys
 
 # error handling

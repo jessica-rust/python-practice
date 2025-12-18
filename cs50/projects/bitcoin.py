@@ -1,3 +1,10 @@
+"""
+Project Name: Bitcoin Price Calculator
+Purpose: Retrieves the current price of Bitcoin from the CoinCap API and calculates the value of a specified amount in USD
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 import sys
 import requests
 

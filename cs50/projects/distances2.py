@@ -1,3 +1,10 @@
+"""
+Project Name: Spacecraft Distance Lookup
+Purpose: Prompts the user to enter a spacecraft name, retrieves its distance from Earth in AU from a dictionary, and converts it to meters
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 distances = {
     "Voyager 1": "163",
     "Voyager 2": "136",

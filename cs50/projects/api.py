@@ -1,3 +1,10 @@
+"""
+Project Name: Art Institute Artwork Search Interactive
+Purpose: Prompts the user for an artist's name, searches the Art Institute of Chicago API for artworks by that artist, and prints the results
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 import requests
 
 def main():

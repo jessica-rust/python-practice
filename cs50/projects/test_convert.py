@@ -1,5 +1,5 @@
 import pytest
-from convert import convert
+from cs50.projects.convert import convert
 
 def test_int_conversion():
     assert convert(1) == 149597870700

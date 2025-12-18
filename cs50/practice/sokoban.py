@@ -1,3 +1,10 @@
+"""
+Project Name: Action History Tracker
+Purpose: Tracks user actions, allowing undo and restart commands, and prints the current action history
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     history = []
     count = 0

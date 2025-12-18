@@ -1,3 +1,10 @@
+"""
+Project Name: Artists
+Purpose: Searches the Art Institute of Chicago API for artists matching a query and returns a list of artist names
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 import requests
 
 # searches for artists in the database with names similar to whats entered

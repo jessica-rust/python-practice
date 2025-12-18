@@ -1,3 +1,10 @@
+"""
+Project Name: List Operations Demo
+Purpose: Demonstrates common Python list methods including append, extend, remove, insert, and reverse
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 results = ["Mario", "Luigi"]
 
 # adds names to the end of the list

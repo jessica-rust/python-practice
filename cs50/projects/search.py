@@ -1,3 +1,10 @@
+"""
+Project Name: Art Institute Search
+Purpose: Searches for artists and artworks using custom modules and displays the top results
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 # museum is the package, artwork is the module, get_artworks is the function
 from museum.artwork import get_artworks
 from museum.artists import get_artists

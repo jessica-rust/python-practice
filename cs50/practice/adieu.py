@@ -1,3 +1,10 @@
+"""
+Project Name: Adieu
+Purpose: Collects names from user input and prints a farewell message formatted with proper commas and "and" using the inflect library
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 import inflect
 
 

@@ -1,3 +1,10 @@
+"""
+Project Name: Math Quiz Game
+Purpose: Generates a level-based addition quiz, handles user input and mistakes, and tracks the score over 10 questions
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 import random
 
 def main():

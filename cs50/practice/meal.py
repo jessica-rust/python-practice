@@ -1,3 +1,10 @@
+"""
+Project Name: Meal Time Checker
+Purpose: Prompts the user for the current time and prints which meal it is (breakfast, lunch, or dinner) based on the hour
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     input_time = input("What time is it? ")
     new_time =  convert(input_time)

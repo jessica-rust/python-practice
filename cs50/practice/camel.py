@@ -1,3 +1,10 @@
+"""
+Project Name: Camel
+Purpose: Converts a camelCase username input into a lowercase, underscore-separated format
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 def main():
     user_input = input("What's your username? ")
     words = []

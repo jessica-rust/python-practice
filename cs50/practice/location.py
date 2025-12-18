@@ -1,3 +1,10 @@
+"""
+Project Name: Tuples vs Lists Demonstration
+Purpose: Demonstrates differences between tuples and lists, including unpacking, indexing, immutability, and memory usage
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 from sys import getsizeof
 def main():
     coordinate_tuple = (42.376, -71.115)

@@ -1,3 +1,10 @@
+"""
+Exercise Name: Plant Moisture Tracker
+Purpose: Continuously monitor plant moisture until watering is required
+Author: Jessica Rust
+Course/Source: Exercise
+Date: 12/18/2025
+"""
 def main():
     moisture = int(sample())
     days = 1

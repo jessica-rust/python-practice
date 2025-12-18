@@ -1,3 +1,10 @@
+"""
+Project Name: Lists and Dictionaries Demonstration
+Purpose: Demonstrates the use of lists, dictionaries, and lists of dictionaries in Python, including iteration and value access
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 ''' Using Lists '''
 
 

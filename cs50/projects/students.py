@@ -1,3 +1,10 @@
+"""
+Project Name: Harry Potter Student Sorter
+Purpose: Reads a CSV of students, stores them as dictionaries, and prints them sorted by name or house
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 """ uses file I/O to open, read, and sort harry potter csv file """
 
 

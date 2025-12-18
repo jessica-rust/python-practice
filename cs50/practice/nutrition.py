@@ -1,3 +1,10 @@
+"""
+Project Name: Fruit Calorie Checker
+Purpose: Prompts the user for a fruit and prints the corresponding calorie value from a dictionary
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 def main():
     fruit = input("Item: ").lower()
     fruits = {

@@ -1,3 +1,10 @@
+"""
+Project Name: Date Converter
+Purpose: Prompts the user for a date in various formats and converts it to a standardized YYYY-MM-DD format with validation
+Author: Jessica Rust
+Course/Source: Personal Project
+Date: 12/18/2025
+"""
 months = ["January", "February", "March", "April", "May", "June", "July",
               "August", "September", "October", "November", "December"]
 

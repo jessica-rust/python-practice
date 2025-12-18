@@ -1,3 +1,10 @@
+"""
+Project Name: Cat
+Purpose: Demonstrates different ways to use for loops, while loops, user input, and functions in Python to print repeated output
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 ''' For Loops '''
 
 # Using a Range

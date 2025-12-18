@@ -1,3 +1,10 @@
+"""
+Project Name: Artwork
+Purpose: Searches the Art Institute of Chicago API for artworks matching a query and returns a list of artwork titles
+Author: Jessica Rust
+Course/Source: cs50
+Date: 12/18/2025
+"""
 import requests
 
 def get_artworks(query, limit):

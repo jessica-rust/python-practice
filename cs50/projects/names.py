@@ -47,14 +47,14 @@ Date: 12/18/2025
 
 
 
-""" code that reads file w/ sorting after """
+""" code that reads file w/ reverse sorting after """
 # names = []   # creates list
 
 # with open("names.txt") as file: # "r" is default and implied
 #     for line in file:
 #         names.append(line.rstrip())
 
-# for name in sorted(names): # sorts list
+# for name in sorted(names, reverse=True): # sorts list, reverses order
 #     print(f"hello, {name}")
 
 

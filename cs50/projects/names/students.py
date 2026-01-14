@@ -82,7 +82,8 @@ Date: 12/18/2025
 """ Most Concise using lambda """
 
 students = []
-with open("students.csv") as file:
+with open("names.csv") as file:
+    next(file)
     for line in file:
         name, house = line.rstrip().split(",")
         student = {"name": name, "house": house}  # assigns k,v in one line

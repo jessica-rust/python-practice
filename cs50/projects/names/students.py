@@ -82,15 +82,15 @@ Date: 12/18/2025
 """ Most Concise using lambda """
 
 students = []
-with open("names.csv") as file:
+with open("newnames.csv") as file:
     next(file)
     for line in file:
-        name, house = line.rstrip().split(",")
-        student = {"name": name, "house": house}  # assigns k,v in one line
+        first, last, house = line.rstrip().split(",")
+        student = {"first": first, "last": last,  "house": house}  # assigns k,v in one line
         students.append(student)
 
-for student in sorted(students, key = lambda student: student["name"]):
-    print(f"{student['name']} is in {student['house']}")
+for student in sorted(students, key = lambda student: student["last"]):
+    print(f"{student['first']} {student['last']} is in {student['house']}")
 
 
 

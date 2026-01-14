@@ -5,9 +5,10 @@ This repository contains my Python learning work, including exercises, CS50 prob
 
 ## Repository Structure
 
-- `basics/` – Core Python concepts and practice files
-- `cs50/` – Solutions to CS50 Python problem sets
+- `basics/` – Basic Python practice files
+- `cs50/` – CS50 problem sets and practice work
 - `mini_projects/` – Small standalone programs
+- `web-scraping/` - Web scraping projects
 
 ## Skills Demonstrated
 
